@@ -1,0 +1,103 @@
+[
+  {
+    "event_id": "EVT-000001",
+    "event_type": "zone_intrusion",
+    "severity": "high",
+    "track_id": 4,
+    "zone_id": "restricted_left",
+    "zone_name": "Restricted Left Zone",
+    "frame_idx": 122,
+    "timestamp_sec": 4.88,
+    "bbox": [
+      29.476438522338867,
+      1.1266696453094482,
+      1067.4595947265625,
+      1659.7281494140625
+    ],
+    "confidence": 0.4465,
+    "metadata": {
+      "zone_type": "restricted"
+    }
+  },
+  {
+    "event_id": "EVT-000002",
+    "event_type": "zone_intrusion",
+    "severity": "high",
+    "track_id": 12,
+    "zone_id": "restricted_left",
+    "zone_name": "Restricted Left Zone",
+    "frame_idx": 172,
+    "timestamp_sec": 6.88,
+    "bbox": [
+      5.917660713195801,
+      15.174097061157227,
+      470.2792663574219,
+      1177.236083984375
+    ],
+    "confidence": 0.4018,
+    "metadata": {
+      "zone_type": "restricted"
+    }
+  },
+  {
+    "event_id": "EVT-000003",
+    "event_type": "zone_intrusion",
+    "severity": "high",
+    "track_id": 13,
+    "zone_id": "restricted_left",
+    "zone_name": "Restricted Left Zone",
+    "frame_idx": 177,
+    "timestamp_sec": 7.08,
+    "bbox": [
+      17.29726791381836,
+      3.494824171066284,
+      1204.60107421875,
+      1312.658203125
+    ],
+    "confidence": 0.4514,
+    "metadata": {
+      "zone_type": "restricted"
+    }
+  },
+  {
+    "event_id": "EVT-000004",
+    "event_type": "zone_exit",
+    "severity": "low",
+    "track_id": 13,
+    "zone_id": "restricted_left",
+    "zone_name": "Restricted Left Zone",
+    "frame_idx": 257,
+    "timestamp_sec": 10.28,
+    "bbox": [
+      689.8582763671875,
+      5.748345375061035,
+      1720.8218994140625,
+      1475.3116455078125
+    ],
+    "confidence": 0.6729,
+    "metadata": {
+      "duration_sec": 1.24,
+      "zone_type": "restricted"
+    }
+  },
+  {
+    "event_id": "EVT-000005",
+    "event_type": "zone_intrusion",
+    "severity": "medium",
+    "track_id": 19,
+    "zone_id": "monitored_center",
+    "zone_name": "Monitored Center",
+    "frame_idx": 282,
+    "timestamp_sec": 11.28,
+    "bbox": [
+      1322.3671875,
+      77.80326843261719,
+      2498.61669921875,
+      1024.6572265625
+    ],
+    "confidence": 0.4401,
+    "metadata": {
+      "zone_type": "monitored"
+    }
+  }
+]

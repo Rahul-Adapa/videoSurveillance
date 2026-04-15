@@ -1,0 +1,11 @@
+{
+  "total_frames": 300,
+  "processed_frames": 300,
+  "total_detections": 0,
+  "total_tracks": 0,
+  "unique_persons": 0,
+  "total_events": 0,
+  "processing_time_sec": 38.98,
+  "avg_fps": 7.7,
+  "track_histories": {}
+}

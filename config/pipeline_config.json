@@ -1,0 +1,21 @@
+{
+  "model_name": "yolov8n.pt",
+  "tracker_type": "bytetrack",
+  "confidence_threshold": 0.35,
+  "iou_threshold": 0.45,
+  "device": "",
+  "img_size": 640,
+  "loiter_displacement_threshold": 50.0,
+  "zone_check_method": "bottom_center",
+  "cooldown_frames": 150,
+  "min_track_age_frames": 5,
+  "track_buffer": 60,
+  "show_trajectories": true,
+  "trajectory_length": 30,
+  "show_confidence": true,
+  "zone_opacity": 0.25,
+  "output_video": true,
+  "output_codec": "mp4v",
+  "output_fps": null,
+  "frame_skip": 0
+}

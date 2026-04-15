@@ -1,0 +1,46 @@
+{
+  "zones": [
+    {
+      "zone_id": "restricted_entrance",
+      "name": "Restricted Entrance",
+      "type": "restricted",
+      "polygon": [
+        [100, 200],
+        [400, 200],
+        [400, 500],
+        [100, 500]
+      ],
+      "color": [0, 0, 255],
+      "loiter_threshold_sec": 30.0,
+      "enabled": true
+    },
+    {
+      "zone_id": "parking_area",
+      "name": "Parking Lot Monitor",
+      "type": "monitored",
+      "polygon": [
+        [500, 300],
+        [900, 300],
+        [900, 600],
+        [500, 600]
+      ],
+      "color": [0, 165, 255],
+      "loiter_threshold_sec": 60.0,
+      "enabled": true
+    },
+    {
+      "zone_id": "lobby",
+      "name": "Building Lobby",
+      "type": "monitored",
+      "polygon": [
+        [200, 100],
+        [600, 100],
+        [600, 350],
+        [200, 350]
+      ],
+      "color": [255, 165, 0],
+      "loiter_threshold_sec": 120.0,
+      "enabled": true
+    }
+  ]
+}

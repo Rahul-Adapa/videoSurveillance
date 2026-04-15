@@ -1,0 +1,29 @@
+{
+  "video": "sample_videos/people_walking.mp4",
+  "stats": {
+    "total_frames": 345,
+    "processed_frames": 345,
+    "total_detections": 0,
+    "total_tracks": 711,
+    "unique_persons": 12,
+    "total_events": 5,
+    "processing_time_sec": 205.58,
+    "avg_fps": 1.68
+  },
+  "events_summary": {
+    "total_events": 5,
+    "by_type": {
+      "zone_intrusion": 4,
+      "zone_exit": 1
+    },
+    "by_severity": {
+      "high": 3,
+      "low": 1,
+      "medium": 1
+    },
+    "by_zone": {
+      "restricted_left": 4,
+      "monitored_center": 1
+    }
+  }
+}

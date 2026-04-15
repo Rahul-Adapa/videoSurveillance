@@ -1,0 +1,84 @@
+{
+  "total_frames": 345,
+  "processed_frames": 345,
+  "total_detections": 0,
+  "total_tracks": 711,
+  "unique_persons": 12,
+  "total_events": 5,
+  "processing_time_sec": 205.58,
+  "avg_fps": 1.68,
+  "track_histories": {
+    "1": {
+      "first_seen": 0,
+      "last_seen": 219,
+      "total_frames": 210,
+      "age_frames": 219
+    },
+    "2": {
+      "first_seen": 0,
+      "last_seen": 66,
+      "total_frames": 52,
+      "age_frames": 66
+    },
+    "4": {
+      "first_seen": 94,
+      "last_seen": 123,
+      "total_frames": 10,
+      "age_frames": 29
+    },
+    "5": {
+      "first_seen": 104,
+      "last_seen": 110,
+      "total_frames": 7,
+      "age_frames": 6
+    },
+    "7": {
+      "first_seen": 139,
+      "last_seen": 344,
+      "total_frames": 172,
+      "age_frames": 205
+    },
+    "12": {
+      "first_seen": 172,
+      "last_seen": 172,
+      "total_frames": 1,
+      "age_frames": 0
+    },
+    "13": {
+      "first_seen": 177,
+      "last_seen": 320,
+      "total_frames": 109,
+      "age_frames": 143
+    },
+    "14": {
+      "first_seen": 208,
+      "last_seen": 208,
+      "total_frames": 1,
+      "age_frames": 0
+    },
+    "16": {
+      "first_seen": 253,
+      "last_seen": 302,
+      "total_frames": 46,
+      "age_frames": 49
+    },
+    "18": {
+      "first_seen": 256,
+      "last_seen": 344,
+      "total_frames": 87,
+      "age_frames": 88
+    },
+    "19": {
+      "first_seen": 282,
+      "last_seen": 293,
+      "total_frames": 12,
+      "age_frames": 11
+    },
+    "20": {
+      "first_seen": 317,
+      "last_seen": 321,
+      "total_frames": 4,
+      "age_frames": 4
+    }
+  }
+}

@@ -1,0 +1,6 @@
+event_id,event_type,severity,track_id,zone_id,zone_name,frame_idx,timestamp_sec,bbox,confidence
+EVT-000001,zone_intrusion,high,4,restricted_left,Restricted Left Zone,122,4.88,"[29.476438522338867, 1.1266696453094482, 1067.4595947265625, 1659.7281494140625]",0.4465
+EVT-000002,zone_intrusion,high,12,restricted_left,Restricted Left Zone,172,6.88,"[5.917660713195801, 15.174097061157227, 470.2792663574219, 1177.236083984375]",0.4018
+EVT-000003,zone_intrusion,high,13,restricted_left,Restricted Left Zone,177,7.08,"[17.29726791381836, 3.494824171066284, 1204.60107421875, 1312.658203125]",0.4514
+EVT-000004,zone_exit,low,13,restricted_left,Restricted Left Zone,257,10.28,"[689.8582763671875, 5.748345375061035, 1720.8218994140625, 1475.3116455078125]",0.6729
+EVT-000005,zone_intrusion,medium,19,monitored_center,Monitored Center,282,11.28,"[1322.3671875, 77.80326843261719, 2498.61669921875, 1024.6572265625]",0.4401

@@ -1,0 +1,32 @@
+{
+  "zones": [
+    {
+      "zone_id": "restricted_left",
+      "name": "Restricted Left Zone",
+      "type": "restricted",
+      "polygon": [
+        [200, 800],
+        [1200, 800],
+        [1200, 1800],
+        [200, 1800]
+      ],
+      "color": [0, 0, 255],
+      "loiter_threshold_sec": 5.0,
+      "enabled": true
+    },
+    {
+      "zone_id": "monitored_center",
+      "name": "Monitored Center",
+      "type": "monitored",
+      "polygon": [
+        [1400, 600],
+        [2800, 600],
+        [2800, 1600],
+        [1400, 1600]
+      ],
+      "color": [0, 165, 255],
+      "loiter_threshold_sec": 8.0,
+      "enabled": true
+    }
+  ]
+}
